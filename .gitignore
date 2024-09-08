@@ -37,3 +37,4 @@ out/
 .vscode/
 resources\
 application.yml
+application-prod.yml
